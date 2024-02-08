@@ -12,4 +12,9 @@ f1-score on test set for multioutput and single output models.
 
 Label| Multioutput| Singleoutput
 -----------|-----------|-----------
-Master category| 94| 87
+Master category| 94| 97
+Gender| 83| 84
+Usage| 86| 86
+Season| 64| 64
+Base color| 87| 91
+Master category| 80| 85
