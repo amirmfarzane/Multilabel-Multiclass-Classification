@@ -10,6 +10,6 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset?res
 ## Result
 f1-score on test set for multioutput and single output models.
 
-| Multioutput| Singleoutput
-| ----------|-----------
+ | Multioutput| Singleoutput
+ | ----------|-----------
 Master category| 94| 87
